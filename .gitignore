@@ -1,0 +1,3 @@
+*.user
+/src/bin
+/src/obj
