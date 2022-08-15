@@ -1,3 +1,4 @@
 *.user
 /src/bin
 /src/obj
+/.vs
